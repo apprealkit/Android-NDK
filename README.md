@@ -19,6 +19,11 @@ License
 =======
 AppRealKit (ARK) is distributed under GNU GPL v2 license, see LICENSE.
 
+Documentation
+========
+* http://apprealkit.com/sdk/android.html
+* http://doc.apprealkit.com/c++.html
+
 ARK Status
 ========
 * https://twitter.com/apprealkit
